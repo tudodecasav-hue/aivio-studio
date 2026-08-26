@@ -1,0 +1,21 @@
+[
+  {
+    "id":"demo-001",
+    "businessName":"Restaurante Sabor & Cia",
+    "category":"Restaurante",
+    "city":"Fortaleza",
+    "phone":"(85) 99999-0000",
+    "whatsapp":"5585999990000",
+    "address":"Av. Exemplo, 100 — Meireles, Fortaleza/CE",
+    "rating":"4,8",
+    "reviews":328,
+    "primary":"#8B1E1E",
+    "secondary":"#F4E9D8",
+    "description":"Sabores artesanais, ambiente acolhedor e atendimento pelo WhatsApp.",
+    "products":[
+      {"name":"Hambúrguer Artesanal","price":"29,90","description":"Pão brioche, carne artesanal, queijo e molho da casa."},
+      {"name":"Combo Sabor","price":"39,90","description":"Hambúrguer + batata crocante + bebida."},
+      {"name":"Brownie da Casa","price":"12,90","description":"Brownie de chocolate servido com calda."}
+    ]
+  }
+]
