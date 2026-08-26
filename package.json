@@ -1,0 +1,8 @@
+{
+  "name": "aivio-studio-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AIVIO-style white-label site studio with PDF and client-demo video generation",
+  "scripts": {"start":"node server.js"},
+  "engines": {"node": ">=20"}
+}
